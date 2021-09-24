@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="token_in_cookie" />
+        <module name="based_on_method" />
+        <module name="objectpostprocessor" />
+        <module name="samesite" />
+        <module name="base_on_url_dy" />
+        <module name="acl" />
+        <module name="oauth2" />
+        <module name="getloginuser" />
+        <module name="res_server" />
+        <module name="startanalysis" />
+        <module name="auth_server_jdbc" />
+        <module name="http_digest" />
+        <module name="multi_users01" />
+        <module name="multiuser" />
+        <module name="res_server_jwt" />
+        <module name="rememberme" />
+        <module name="http_response_headers" />
+        <module name="multi_users03" />
+        <module name="cors01_addcorsmappings" />
+        <module name="multi_users02" />
+        <module name="auth_server" />
+        <module name="custom_expression" />
+        <module name="cors_security_corsfilter" />
+        <module name="kaptcha" />
+        <module name="sessionshare" />
+        <module name="client02" />
+        <module name="json_login" />
+        <module name="based_on_url" />
+        <module name="synchronizer_token_pattern" />
+        <module name="cors02" />
+        <module name="csrf-2" />
+        <module name="receive_report" />
+        <module name="csrf-1" />
+        <module name="formlogin" />
+        <module name="http" />
+        <module name="user-in-memory" />
+        <module name="ignoredrequests" />
+        <module name="passwordencoder02" />
+        <module name="mybatis" />
+        <module name="oauth2_login_demo2" />
+        <module name="oauth2_login_demo3" />
+        <module name="cors01_corsfilter" />
+        <module name="auth_server_redis" />
+        <module name="passwordencoder" />
+        <module name="jpa" />
+        <module name="auth_server_jwt" />
+        <module name="multiuser-mybatis" />
+        <module name="cors01_crossorigin" />
+        <module name="exception_translation_filter" />
+        <module name="sessionmanager" />
+        <module name="firstdemo" />
+        <module name="rememberme_persistent" />
+        <module name="filter_kaptcha" />
+        <module name="cors_security_crossorigin" />
+        <module name="jdbcuserdetailsmanager" />
+        <module name="cors_security" />
+        <module name="httpfirewall" />
+        <module name="oauth2_login_demo" />
+        <module name="multi_filter_chain" />
+        <module name="http_basic" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="acl" target="1.8" />
+      <module name="auth_server" target="1.8" />
+      <module name="auth_server_jdbc" target="1.8" />
+      <module name="auth_server_jwt" target="1.8" />
+      <module name="auth_server_redis" target="1.8" />
+      <module name="base_on_url_dy" target="1.8" />
+      <module name="based_on_method" target="1.8" />
+      <module name="based_on_url" target="1.8" />
+      <module name="client02" target="1.8" />
+      <module name="cors01_addcorsmappings" target="1.8" />
+      <module name="cors01_corsfilter" target="1.8" />
+      <module name="cors01_crossorigin" target="1.8" />
+      <module name="cors02" target="1.8" />
+      <module name="cors_security" target="1.8" />
+      <module name="cors_security_corsfilter" target="1.8" />
+      <module name="cors_security_crossorigin" target="1.8" />
+      <module name="csrf-1" target="1.8" />
+      <module name="csrf-2" target="1.8" />
+      <module name="custom_expression" target="1.8" />
+      <module name="exception_translation_filter" target="1.8" />
+      <module name="filter_kaptcha" target="1.8" />
+      <module name="firstdemo" target="1.8" />
+      <module name="formlogin" target="1.8" />
+      <module name="getloginuser" target="1.8" />
+      <module name="http" target="1.8" />
+      <module name="http_basic" target="1.8" />
+      <module name="http_digest" target="1.8" />
+      <module name="http_response_headers" target="1.8" />
+      <module name="httpfirewall" target="1.8" />
+      <module name="ignoredrequests" target="1.8" />
+      <module name="jdbcuserdetailsmanager" target="1.8" />
+      <module name="jpa" target="1.8" />
+      <module name="json_login" target="1.8" />
+      <module name="kaptcha" target="1.8" />
+      <module name="multi_filter_chain" target="1.8" />
+      <module name="multi_users01" target="1.8" />
+      <module name="multi_users02" target="1.8" />
+      <module name="multi_users03" target="1.8" />
+      <module name="multiuser" target="1.8" />
+      <module name="multiuser-mybatis" target="1.8" />
+      <module name="mybatis" target="1.8" />
+      <module name="oauth2" target="1.5" />
+      <module name="oauth2_login_demo" target="1.8" />
+      <module name="oauth2_login_demo2" target="1.8" />
+      <module name="oauth2_login_demo3" target="1.8" />
+      <module name="objectpostprocessor" target="1.8" />
+      <module name="passwordencoder" target="1.8" />
+      <module name="passwordencoder02" target="1.8" />
+      <module name="receive_report" target="1.8" />
+      <module name="rememberme" target="1.8" />
+      <module name="rememberme_persistent" target="1.8" />
+      <module name="res_server" target="1.8" />
+      <module name="res_server_jwt" target="1.8" />
+      <module name="samesite" target="1.8" />
+      <module name="sessionmanager" target="1.8" />
+      <module name="sessionshare" target="1.8" />
+      <module name="startanalysis" target="1.8" />
+      <module name="synchronizer_token_pattern" target="1.8" />
+      <module name="token_in_cookie" target="1.8" />
+      <module name="user-in-memory" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="acl" options="-parameters" />
+      <module name="auth_server" options="-parameters" />
+      <module name="auth_server_jdbc" options="-parameters" />
+      <module name="auth_server_jwt" options="-parameters" />
+      <module name="auth_server_redis" options="-parameters" />
+      <module name="base_on_url_dy" options="-parameters" />
+      <module name="based_on_method" options="-parameters" />
+      <module name="based_on_url" options="-parameters" />
+      <module name="client02" options="-parameters" />
+      <module name="cors01_addcorsmappings" options="-parameters" />
+      <module name="cors01_corsfilter" options="-parameters" />
+      <module name="cors01_crossorigin" options="-parameters" />
+      <module name="cors02" options="-parameters" />
+      <module name="cors_security" options="-parameters" />
+      <module name="cors_security_corsfilter" options="-parameters" />
+      <module name="cors_security_crossorigin" options="-parameters" />
+      <module name="csrf-1" options="-parameters" />
+      <module name="csrf-2" options="-parameters" />
+      <module name="custom_expression" options="-parameters" />
+      <module name="exception_translation_filter" options="-parameters" />
+      <module name="filter_kaptcha" options="-parameters" />
+      <module name="firstdemo" options="-parameters" />
+      <module name="formlogin" options="-parameters" />
+      <module name="getloginuser" options="-parameters" />
+      <module name="http" options="-parameters" />
+      <module name="http_basic" options="-parameters" />
+      <module name="http_digest" options="-parameters" />
+      <module name="http_response_headers" options="-parameters" />
+      <module name="httpfirewall" options="-parameters" />
+      <module name="ignoredrequests" options="-parameters" />
+      <module name="jdbcuserdetailsmanager" options="-parameters" />
+      <module name="jpa" options="-parameters" />
+      <module name="json_login" options="-parameters" />
+      <module name="kaptcha" options="-parameters" />
+      <module name="multi_filter_chain" options="-parameters" />
+      <module name="multi_users01" options="-parameters" />
+      <module name="multi_users02" options="-parameters" />
+      <module name="multi_users03" options="-parameters" />
+      <module name="multiuser" options="-parameters" />
+      <module name="multiuser-mybatis" options="-parameters" />
+      <module name="mybatis" options="-parameters" />
+      <module name="oauth2_login_demo" options="-parameters" />
+      <module name="oauth2_login_demo2" options="-parameters" />
+      <module name="oauth2_login_demo3" options="-parameters" />
+      <module name="objectpostprocessor" options="-parameters" />
+      <module name="passwordencoder" options="-parameters" />
+      <module name="passwordencoder02" options="-parameters" />
+      <module name="receive_report" options="-parameters" />
+      <module name="rememberme" options="-parameters" />
+      <module name="rememberme_persistent" options="-parameters" />
+      <module name="res_server" options="-parameters" />
+      <module name="res_server_jwt" options="-parameters" />
+      <module name="samesite" options="-parameters" />
+      <module name="sessionmanager" options="-parameters" />
+      <module name="sessionshare" options="-parameters" />
+      <module name="startanalysis" options="-parameters" />
+      <module name="synchronizer_token_pattern" options="-parameters" />
+      <module name="token_in_cookie" options="-parameters" />
+      <module name="user-in-memory" options="-parameters" />
+    </option>
+  </component>
+</project>

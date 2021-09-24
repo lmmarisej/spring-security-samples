@@ -1,0 +1,30 @@
+server:
+  port: 8883
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          auth-code:
+            provider: lmmarise
+            client-id: my_client
+            client-secret: 123
+            authorization-grant-type: authorization_code    # 授权码模式
+            redirect-uri: http://127.0.0.1:8883/login/oauth2/code/lmm
+            scope: read:msg
+          client-creds:
+            provider: lmmarise
+            client-id: my_client
+            client-secret: 123
+            authorization-grant-type: client_credentials    # 客户端模式
+            scope: read:msg
+          password:
+            provider: lmmarise
+            client-id: my_client
+            client-secret: 123
+            authorization-grant-type: password              # 密码模式
+            scope: read:msg
+        provider:
+          lmmarise:
+            authorization-uri: http://127.0.0.1:8881/oauth/authorize  # 授权服务器认证地址
+            token-uri: http://127.0.0.1:8881/oauth/token              # 令牌获取地址

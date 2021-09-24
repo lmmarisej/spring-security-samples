@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/chapter02/jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter02/mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter02/firstdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter02/formlogin/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter02/getloginuser/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter02/user-in-memory/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter02/jdbcuserdetailsmanager/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter03/kaptcha/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter03/multiuser/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter03/multiuser-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter04/json_login/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter04/multi_users01/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter04/multi_users02/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter04/multi_users03/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter04/startanalysis/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter04/filter_kaptcha/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter04/ignoredrequests/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter04/multi_filter_chain/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter04/objectpostprocessor/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter05/passwordencoder/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter05/passwordencoder02/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter06/rememberme/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter06/rememberme_persistent/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter07/sessionshare/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter07/sessionmanager/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter08/httpfirewall/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter09/http/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter09/csrf-1/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter09/csrf-2/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter09/samesite/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter09/receive_report/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter09/token_in_cookie/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter09/http_response_headers/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter09/synchronizer_token_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10/http_basic/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10/http_digest/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11/cors02/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11/cors_security/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11/cors01_corsfilter/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11/cors01_crossorigin/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11/cors01_addcorsmappings/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11/cors_security_corsfilter/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11/cors_security_crossorigin/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter12/exception_translation_filter/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13/based_on_url/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13/base_on_url_dy/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13/based_on_method/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13/custom_expression/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter14/acl/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter15/oauth2/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter15/oauth2_login_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter15/oauth2_login_demo2/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter15/oauth2_login_demo3/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter15/oauth2/auth_server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter15/oauth2/auth_server_jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter15/oauth2/auth_server_jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter15/oauth2/auth_server_redis/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter15/oauth2/client02/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter15/oauth2/res_server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter15/oauth2/res_server_jwt/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

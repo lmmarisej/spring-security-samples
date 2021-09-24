@@ -1,0 +1,10 @@
+server:
+  port: 8882
+spring:
+  security:
+    oauth2:
+      resource-server:
+        opaque:
+          introspection-uri: http://127.0.0.1:8881/oauth/check_token  # 资源服务器收到令牌后，校验令牌的地址
+          introspection-client-id: my_client  # 访问接口的客户端ID
+          introspection-client-secret: 123    # 访问接口的客户端密钥【可以和Client的不一样，但都能登录一个账户】

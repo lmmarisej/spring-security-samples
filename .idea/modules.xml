@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter14/acl/acl.iml" filepath="$PROJECT_DIR$/chapter14/acl/acl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/oauth2/auth_server/auth_server.iml" filepath="$PROJECT_DIR$/chapter15/oauth2/auth_server/auth_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/oauth2/auth_server_jdbc/auth_server_jdbc.iml" filepath="$PROJECT_DIR$/chapter15/oauth2/auth_server_jdbc/auth_server_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/oauth2/auth_server_jwt/auth_server_jwt.iml" filepath="$PROJECT_DIR$/chapter15/oauth2/auth_server_jwt/auth_server_jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/oauth2/auth_server_redis/auth_server_redis.iml" filepath="$PROJECT_DIR$/chapter15/oauth2/auth_server_redis/auth_server_redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13/base_on_url_dy/base_on_url_dy.iml" filepath="$PROJECT_DIR$/chapter13/base_on_url_dy/base_on_url_dy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13/based_on_method/based_on_method.iml" filepath="$PROJECT_DIR$/chapter13/based_on_method/based_on_method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13/based_on_url/based_on_url.iml" filepath="$PROJECT_DIR$/chapter13/based_on_url/based_on_url.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/oauth2/client02/client02.iml" filepath="$PROJECT_DIR$/chapter15/oauth2/client02/client02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11/cors01_addcorsmappings/cors01_addcorsmappings.iml" filepath="$PROJECT_DIR$/chapter11/cors01_addcorsmappings/cors01_addcorsmappings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11/cors01_corsfilter/cors01_corsfilter.iml" filepath="$PROJECT_DIR$/chapter11/cors01_corsfilter/cors01_corsfilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11/cors01_crossorigin/cors01_crossorigin.iml" filepath="$PROJECT_DIR$/chapter11/cors01_crossorigin/cors01_crossorigin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11/cors02/cors02.iml" filepath="$PROJECT_DIR$/chapter11/cors02/cors02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11/cors_security/cors_security.iml" filepath="$PROJECT_DIR$/chapter11/cors_security/cors_security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11/cors_security_corsfilter/cors_security_corsfilter.iml" filepath="$PROJECT_DIR$/chapter11/cors_security_corsfilter/cors_security_corsfilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11/cors_security_crossorigin/cors_security_crossorigin.iml" filepath="$PROJECT_DIR$/chapter11/cors_security_crossorigin/cors_security_crossorigin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter09/csrf-1/csrf-1.iml" filepath="$PROJECT_DIR$/chapter09/csrf-1/csrf-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter09/csrf-2/csrf-2.iml" filepath="$PROJECT_DIR$/chapter09/csrf-2/csrf-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13/custom_expression/custom_expression.iml" filepath="$PROJECT_DIR$/chapter13/custom_expression/custom_expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter12/exception_translation_filter/exception_translation_filter.iml" filepath="$PROJECT_DIR$/chapter12/exception_translation_filter/exception_translation_filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter04/filter_kaptcha/filter_kaptcha.iml" filepath="$PROJECT_DIR$/chapter04/filter_kaptcha/filter_kaptcha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter02/firstdemo/firstdemo.iml" filepath="$PROJECT_DIR$/chapter02/firstdemo/firstdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter02/formlogin/formlogin.iml" filepath="$PROJECT_DIR$/chapter02/formlogin/formlogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter02/getloginuser/getloginuser.iml" filepath="$PROJECT_DIR$/chapter02/getloginuser/getloginuser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter09/http/http.iml" filepath="$PROJECT_DIR$/chapter09/http/http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10/http_basic/http_basic.iml" filepath="$PROJECT_DIR$/chapter10/http_basic/http_basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10/http_digest/http_digest.iml" filepath="$PROJECT_DIR$/chapter10/http_digest/http_digest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter09/http_response_headers/http_response_headers.iml" filepath="$PROJECT_DIR$/chapter09/http_response_headers/http_response_headers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter08/httpfirewall/httpfirewall.iml" filepath="$PROJECT_DIR$/chapter08/httpfirewall/httpfirewall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter04/ignoredrequests/ignoredrequests.iml" filepath="$PROJECT_DIR$/chapter04/ignoredrequests/ignoredrequests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter02/jdbcuserdetailsmanager/jdbcuserdetailsmanager.iml" filepath="$PROJECT_DIR$/chapter02/jdbcuserdetailsmanager/jdbcuserdetailsmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter02/jpa/jpa.iml" filepath="$PROJECT_DIR$/chapter02/jpa/jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter04/json_login/json_login.iml" filepath="$PROJECT_DIR$/chapter04/json_login/json_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter03/kaptcha/kaptcha.iml" filepath="$PROJECT_DIR$/chapter03/kaptcha/kaptcha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter04/multi_filter_chain/multi_filter_chain.iml" filepath="$PROJECT_DIR$/chapter04/multi_filter_chain/multi_filter_chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter04/multi_users01/multi_users01.iml" filepath="$PROJECT_DIR$/chapter04/multi_users01/multi_users01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter04/multi_users02/multi_users02.iml" filepath="$PROJECT_DIR$/chapter04/multi_users02/multi_users02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter04/multi_users03/multi_users03.iml" filepath="$PROJECT_DIR$/chapter04/multi_users03/multi_users03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter03/multiuser/multiuser.iml" filepath="$PROJECT_DIR$/chapter03/multiuser/multiuser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter03/multiuser-mybatis/multiuser-mybatis.iml" filepath="$PROJECT_DIR$/chapter03/multiuser-mybatis/multiuser-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter02/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/chapter02/mybatis/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/oauth2/oauth2.iml" filepath="$PROJECT_DIR$/chapter15/oauth2/oauth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/oauth2_login_demo/oauth2_login_demo.iml" filepath="$PROJECT_DIR$/chapter15/oauth2_login_demo/oauth2_login_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/oauth2_login_demo2/oauth2_login_demo2.iml" filepath="$PROJECT_DIR$/chapter15/oauth2_login_demo2/oauth2_login_demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/oauth2_login_demo3/oauth2_login_demo3.iml" filepath="$PROJECT_DIR$/chapter15/oauth2_login_demo3/oauth2_login_demo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter04/objectpostprocessor/objectpostprocessor.iml" filepath="$PROJECT_DIR$/chapter04/objectpostprocessor/objectpostprocessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter05/passwordencoder/passwordencoder.iml" filepath="$PROJECT_DIR$/chapter05/passwordencoder/passwordencoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter05/passwordencoder02/passwordencoder02.iml" filepath="$PROJECT_DIR$/chapter05/passwordencoder02/passwordencoder02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter09/receive_report/receive_report.iml" filepath="$PROJECT_DIR$/chapter09/receive_report/receive_report.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter06/rememberme/rememberme.iml" filepath="$PROJECT_DIR$/chapter06/rememberme/rememberme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter06/rememberme_persistent/rememberme_persistent.iml" filepath="$PROJECT_DIR$/chapter06/rememberme_persistent/rememberme_persistent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/oauth2/res_server/res_server.iml" filepath="$PROJECT_DIR$/chapter15/oauth2/res_server/res_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/oauth2/res_server_jwt/res_server_jwt.iml" filepath="$PROJECT_DIR$/chapter15/oauth2/res_server_jwt/res_server_jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter09/samesite/samesite.iml" filepath="$PROJECT_DIR$/chapter09/samesite/samesite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter07/sessionmanager/sessionmanager.iml" filepath="$PROJECT_DIR$/chapter07/sessionmanager/sessionmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter07/sessionshare/sessionshare.iml" filepath="$PROJECT_DIR$/chapter07/sessionshare/sessionshare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-security-book-samples.iml" filepath="$PROJECT_DIR$/.idea/spring-security-book-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter04/startanalysis/startanalysis.iml" filepath="$PROJECT_DIR$/chapter04/startanalysis/startanalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter09/synchronizer_token_pattern/synchronizer_token_pattern.iml" filepath="$PROJECT_DIR$/chapter09/synchronizer_token_pattern/synchronizer_token_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter09/token_in_cookie/token_in_cookie.iml" filepath="$PROJECT_DIR$/chapter09/token_in_cookie/token_in_cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter02/user-in-memory/user-in-memory.iml" filepath="$PROJECT_DIR$/chapter02/user-in-memory/user-in-memory.iml" />
+    </modules>
+  </component>
+</project>

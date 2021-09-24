@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/chapter03/multiuser-mybatis/security02.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/chapter05/passwordencoder02/security05.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/chapter06/rememberme_persistent/security06.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/chapter13/base_on_url_dy/src/main/resources/security13.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/chapter14/acl/src/main/resources/system_message.sql" dialect="MySQL" />
+  </component>
+  <component name="SqlResolveMappings">
+    <file url="file://$PROJECT_DIR$/chapter02/mybatis/src/main/java/org/javaboy/formlogin/mapper/UserMapper.xml" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;name&quot;:{     &quot;@qname&quot;:&quot;fe9d5666-63f9-4872-89df-33814c402728&quot;    },    &quot;group&quot;:{     &quot;@kind&quot;:&quot;schema&quot;,     &quot;node&quot;:{      &quot;name&quot;:{       &quot;@qname&quot;:&quot;security_mybatis&quot;      }     }    }   }  } }}" />
+    <file url="PROJECT" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;name&quot;:{     &quot;@qname&quot;:&quot;fe9d5666-63f9-4872-89df-33814c402728&quot;    },    &quot;group&quot;:{     &quot;@kind&quot;:&quot;schema&quot;,     &quot;node&quot;:{      &quot;name&quot;:{       &quot;@qname&quot;:&quot;security_mybatis&quot;      }     }    }   }  } }}" />
+  </component>
+</project>
